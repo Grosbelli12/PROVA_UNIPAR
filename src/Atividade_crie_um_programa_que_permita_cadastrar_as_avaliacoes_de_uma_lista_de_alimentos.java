@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Atividade_crie_um_programa_que_permita_cadastrar_as_avaliacoes_de_uma_lista_de_alimentos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Quantos alimentos você deseja cadastrar: ");
